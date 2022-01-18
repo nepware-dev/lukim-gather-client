@@ -1,4 +1,4 @@
-@import '../vendor/react-arsenal/styles/_base.scss';
+@import "../vendor/react-arsenal/styles/base";
 
 :root {
     /* Colors */
@@ -12,7 +12,7 @@
 * {
     margin: 0;
     padding: 0;
-    
+
     @media only screen and (max-width: 991px) {
         font-size: 14px;
     }
