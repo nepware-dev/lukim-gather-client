@@ -11,7 +11,7 @@ registerServiceWorker();
 
 const client = new ApolloClient({
     cache: new InMemoryCache(),
-    uri: process.env.REACT_APP_API_BASE_URI,
+    uri: process.env.REACT_APP_API_BASE_URL,
 });
 
 function App() {

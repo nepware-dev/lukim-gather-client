@@ -1,0 +1,6 @@
+{
+	"appId": "com.ionic.lukimgather",
+	"appName": "Lukim Gather",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

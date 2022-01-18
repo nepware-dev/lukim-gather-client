@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Lukim Gather</string>
+    <string name="title_activity_main">Lukim Gather</string>
+    <string name="package_name">com.ionic.lukimgather</string>
+    <string name="custom_url_scheme">com.ionic.lukimgather</string>
+</resources>
